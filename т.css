@@ -1,0 +1,24 @@
+body {margin: 60px} 
+
+#fixed { 
+    position: fixed; 
+    left: 0px; 
+    top: 0px;  
+    width: 100%; 
+    height: 50px; 
+    background-color: #c5c81f; 
+    text-align: center; 
+    line-height: 50px; 
+    font-size: 21px; 
+    color: white; 
+    border-bottom: 1px solid #5a7711; 
+} 
+
+#text { 
+    width: 600px;   
+    margin: 10px auto 60px auto; 
+    padding: 20px; 
+    border: 1px solid #c5c81f; 
+} 
+
+h1 {margin: 0px; color: #c5c81f} 
